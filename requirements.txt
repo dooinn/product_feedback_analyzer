@@ -1,0 +1,31 @@
+# Core dependencies
+apify-client
+python-dotenv
+pandas
+openai
+transformers[torch]
+matplotlib
+seaborn
+datasets
+scikit-learn
+regex
+plotly
+
+# MLOps & API
+mlflow
+
+# Logging & Utilities
+loguru
+
+
+#PyTorch - CPU version
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
+# If CUDA available, install manually:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+# Check if PyTorch actually detects the GPU 
+# python -c "import torch; print('CUDA available:', torch.cuda.is_available()); print('GPU name:', torch.cuda.get_device_name(0) if torch.cuda.is_available() else 'None')"
+
+
