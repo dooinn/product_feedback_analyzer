@@ -1,0 +1,19 @@
+# Ignore unnecessary or large directories
+mlruns/
+notebooks/
+experiment_results/
+data/
+assets/
+__pycache__/
+*.pyc
+*.pkl
+*.mp4
+*.csv
+*.docx
+
+# Ignore environment and git files
+.env
+.git
+.gitignore
+LICENSE
+README.md

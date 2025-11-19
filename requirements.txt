@@ -11,6 +11,8 @@ scikit-learn
 regex
 plotly
 
+streamlit
+
 gdown
 
 # MLOps & API
