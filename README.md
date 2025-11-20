@@ -7,8 +7,7 @@ It helps you analyze customer reviews or YouTube comments, automatically detecti
 
 ## Live Demo
 
-**Try the app live:**  
-👉 [https://dooinn-product-feedback-analyzer-app-7vfoe0.streamlit.app/](Try it here!!)
+**Try the app live [here](https://dooinn-product-feedback-analyzer-app-7vfoe0.streamlit.app/)**  
 
 Test the app using the test dataset (test.csv) and gather insights!
 
