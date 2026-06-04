@@ -3,7 +3,7 @@ apify-client
 python-dotenv
 pandas
 openai
-transformers[torch]
+transformers[torch]==4.47.1
 matplotlib
 seaborn
 datasets
